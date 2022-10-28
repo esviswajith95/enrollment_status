@@ -28,4 +28,4 @@ The dataset contains information regarding the demoraphy and socio-economic cond
 * High dropout rates are observed among students who have joined after completing highschool or a bachelors degree. But majority of students joining after secondary school are graduating.
 * Most of the students who dropout, do so before completing their first or second semester. Those dropout after have a lower grade compared to others.
 
-Follow (this notebook)[https://github.com/esviswajith95/enrollment_status/blob/main/notebooks/02-esv-EDA_deep_dive.ipynb] for the detailed analysis.
+Follow [this notebook](https://github.com/esviswajith95/enrollment_status/blob/main/notebooks/02-esv-EDA_deep_dive.ipynb) for the detailed analysis.
