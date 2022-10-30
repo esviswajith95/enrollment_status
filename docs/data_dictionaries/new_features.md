@@ -58,7 +58,8 @@ Professional -> professional
     * 121 - Specialists in the physical sciences, mathematics, engineering and related techniques 
     * 122 - Health professionals 
     * 123 - teachers 
-    * 124 - Specialists in finance, accounting, administrative organization, public and commercial relations 
+    * 124 - Specialists in finance, accounting, administrative organization, public and commercial relations
+    * 125 - Specialists in information and communication technologies (ICT) 
 Technicians and associate professionals -> technical
     * 3 - Intermediate Level Technicians and Professions
     * 131 - Intermediate level science and engineering technicians and professions 
@@ -83,6 +84,7 @@ Craft related trades workers -> craftsmen
     * 7 - Skilled Workers in Industry, Construction and Craftsmen
     * 171 - Skilled construction workers and the like, except electricians 
     * 172 - Skilled workers in metallurgy, metalworking and similar 
+    * 173 - Skilled workers in printing, precision instrument manufacturing, jewelers, artisans and the like
     * 174 - Skilled workers in electricity and electronics 
     * 175 - Workers in food processing, woodworking, clothing and other industries and crafts 
 Plant and machine operators, and assemblers -> factory
@@ -93,6 +95,7 @@ Plant and machine operators, and assemblers -> factory
 
 Elementary occupations -> elementary
     * 9 - Unskilled Workers
+    * 191 - cleaning workers
     * 192 - Unskilled workers in agriculture, animal production, fisheries and forestry 
     * 193 - Unskilled workers in extractive industry, construction, manufacturing and transport 
     * 194 - Meal preparation assistants 
