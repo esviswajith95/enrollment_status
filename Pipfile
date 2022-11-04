@@ -18,6 +18,9 @@ scipy = "*"
 seaborn = "*"
 jupyterlab = "*"
 scikit-learn = "*"
+jupyter-contrib-nbextensions = "*"
+xgboost = "*"
+imblearn = "*"
 
 [requires]
 python_version = "3"
